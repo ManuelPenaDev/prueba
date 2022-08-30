@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css"/>
+
+</head>
+
+<body>
+    <header >
+        <h1 id="Titulo">No me van a decir mas porrro hdp</h1>
+    </header>
+       <section>
+        <article class="post">
+            <h2>Titulo de mi pinche post</h2>
+            <p>Descripcion de mi post</p>
+            <img src="img/5.jpg" width="200" />
+            <p>Texto del articulo que hay aca y es texto de prueba</p>
+        </article>
+        <article class="post">
+            <h2>Titulo de mi pinche post 2</h2>
+            <p>Descripcion de mi post 2</p>
+            <img src="img/2.jpg" width="200" />
+            <p>Texto del articulo que hay aca y es texto de prueba</p>
+        </article>
+        <article class="post">
+            <h2>Titulo de mi pinche post 3</h2>
+            <p>Descripcion de mi post 3</p>
+            <img src="img/4.jpg" width="300" />
+            <p>Texto del articulo que hay aca y es texto de prueba</p>
+        </article>
+    </section>
+    <footer>
+        <a href="#Titulo">Ir al comienzo</a>
+        <a href="mailto:malejandropq@gmail.com">contactame a traves de correo</a>
+        <p>Copirigth 2022</p>
+    </footer>
+</body>
+
+</html>
